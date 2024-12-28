@@ -1,5 +1,7 @@
-# esp32-project-ai
+![image](https://github.com/user-attachments/assets/983d9dbe-b93c-457a-9a40-7b8cd3225ab6)# esp32-project-ai
 Repository untuk resouces kecerdasan buatan.<br>
+
+![image](https://github.com/user-attachments/assets/cdb347d6-ae17-41e0-9245-11b409b0bb05)
 
 ## Tujuan:
 Mengimplementasi logika fuzzy pada ESP32 untuk advance plant monitoring system.<br>
