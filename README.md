@@ -16,7 +16,7 @@ Mengimplementasi logika fuzzy pada ESP32 untuk advance plant monitoring system.<
 5. ARDUINO IDE
 
 ## Workflow Diagram
-<img src=
+<img src=image/FuzzyPlantMonitoringSystem.jpg width="512"/>
 
 ## Skematik
 1. Hubungkan pin ADC 33 ESP32 pada pin DHT11 dengan jumper
