@@ -7,6 +7,7 @@ Pada project kali ini, kelompok kita menggunakan PCB ESP32 IoT Starter Kit (PCBW
 
 ## Tujuan:
 Mengimplementasi logika fuzzy pada ESP32 untuk advance plant monitoring system.<br>
+Untuk mendapatkan output yang diharapkan, pada project kali ini kami menggunakan defuzzifikasi sugeno.
 
 ## Alat dan Bahan:
 1. ESP32
