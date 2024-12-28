@@ -1,8 +1,8 @@
 # esp32-project-ai
-pengaplikasian logika fuzzy menggunakan ESP32
+Repository untuk resouces kecerdasan buatan.<br>
 
 ## Tujuan:
-Mengimplementasi logika fuzzy pada ESP32
+Mengimplementasi logika fuzzy pada ESP32 untuk advance plant monitoring system.<br>
 
 ## Alat dan Bahan:
 1. ESP32
@@ -10,5 +10,6 @@ Mengimplementasi logika fuzzy pada ESP32
 3. LDR
 4. ARDUINO IDE
 
-tujuan dari project ini sebagai tugas besar mata kuliah kecerdasan buatan s1 telkom university
+tujuan dari project ini sebagai tugas besar mata kuliah kecerdasan buatan s1 telkom university<br>
+
 kelompok Haikal, Bondan, Darryl
