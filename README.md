@@ -1,7 +1,7 @@
 # esp32-project-ai
 Repository untuk resouces kecerdasan buatan.<br>
 
-<img src=https://github.com/user-attachments/assets/cdb347d6-ae17-41e0-9245-11b409b0bb05 width="720"/>
+<img src=https://github.com/user-attachments/assets/cdb347d6-ae17-41e0-9245-11b409b0bb05 width="512"/>
 
 Pada project kali ini, kelompok kita menggunakan PCB ESP32 IoT Starter Kit (PCBWay), yang mana pada SHIELD ini telah tertanam berbagai sensor yang bisa digunakan. 
 
@@ -14,6 +14,9 @@ Mengimplementasi logika fuzzy pada ESP32 untuk advance plant monitoring system.<
 3. LDR
 4. OLED 128x64
 5. ARDUINO IDE
+
+## Workflow Diagram
+<img src=
 
 ## Skematik
 1. Hubungkan pin ADC 33 ESP32 pada pin DHT11 dengan jumper
