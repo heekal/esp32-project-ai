@@ -32,4 +32,4 @@ Untuk mendapatkan output yang diharapkan, pada project kali ini kami menggunakan
 4. Alat siap digunakan!
 
 tujuan dari project ini sebagai tugas besar mata kuliah kecerdasan buatan s1 telkom university<br>
-kelompok 2 Haikal, Bondan, Darryl
+kelompok 2 Haikal, Bondan, Darryl @rryealy
