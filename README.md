@@ -31,5 +31,7 @@ Untuk mendapatkan output yang diharapkan, pada project kali ini kami menggunakan
 3. Upload kodingan_esp.ino
 4. Alat siap digunakan!
 
+## Hasil Running Pada Alat
+<img src=image/runningtools.jpg width="512"/>
 tujuan dari project ini sebagai tugas besar mata kuliah kecerdasan buatan s1 telkom university<br>
 kelompok 2 Haikal, Bondan, Darryl @rryealy
